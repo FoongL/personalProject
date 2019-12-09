@@ -170,7 +170,7 @@ header h2 {
   max-height: 250px;
   max-width:100vw;
   overflow: hidden;
-  object-fit:cover;
+  object-fit:fill;
   margin-top: 10px;
 }
 
