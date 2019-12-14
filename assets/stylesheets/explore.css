@@ -113,6 +113,7 @@ header h2 {
   white-space: nowrap;
   -webkit-overflow-scrolling: touch;
   padding-bottom:25px;
+  padding-top: 10px;
 }
 .scrolling-wrapper::-webkit-scrollbar {
   display: none;
